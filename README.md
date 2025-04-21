@@ -46,7 +46,8 @@ Accuracy:It is a basic evaluation metric that measures how often the model makes
 Confusion Matrix: To visualize classification performance
 Classification Report:It Includes precision, recall, F1-score for each class
 
-#GUI Interface
+# GUI Interface
+
 Created a python-based GUI using tkinter for user interaction like uploading or recording data and viewing results
 
 # How to Reproduce
