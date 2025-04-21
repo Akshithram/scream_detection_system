@@ -37,6 +37,7 @@ This dataset will be used for training and testing the machine learning model.
 # Training & Testing Strategy
 
 Dataset splitted into 80% for training and 20% for testing
+The trained model is saved as "scream_detector_model.pkl"
 
 
 # Evaluation Metrics
